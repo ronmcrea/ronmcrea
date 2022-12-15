@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ron_mcrea" target="blank"><img src="https://img.shields.io/twitter/follow/ron_mcrea?logo=twitter&style=for-the-badge" alt="ron_mcrea" /></a> </p>
 
-- 🔭 I’m currently learning **three.js**
-
 - 🌱 I’m currently learning **three.js, blender**
 
 - 👯 I’m looking to collaborate on **Web Apps, Mobile Apps, Coding competitions**
